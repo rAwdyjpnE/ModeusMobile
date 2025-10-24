@@ -1,0 +1,22 @@
+{
+  "latest_version": "1.0.1b",
+  "apk_url": "https://t.me/UTMN_Modeus_mobile",
+  "changelog": [
+    {
+      "version": "1.0.1b",
+      "is_latest": true,
+      "changes": [
+        "Улучшена стабильность",
+        "Исправлены ошибки с расписанием",
+        "Новая тема оформления"
+      ]
+    },
+    {
+      "version": "1.0.0b",
+      "is_latest": false,
+      "changes": [
+        "Первая бета версия"
+      ]
+    }
+  ]
+}
